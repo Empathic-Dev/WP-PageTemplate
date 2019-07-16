@@ -1,2 +1,2 @@
-# WP-PageTemplate
- My first attempt at building a WP Page Template
+# Custom WordPress Page Template
+
